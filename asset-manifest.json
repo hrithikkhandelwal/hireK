@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hireK/static/css/main.a724a61b.css",
+    "main.js": "/hireK/static/js/main.356d40e1.js",
+    "index.html": "/hireK/index.html",
+    "main.a724a61b.css.map": "/hireK/static/css/main.a724a61b.css.map",
+    "main.356d40e1.js.map": "/hireK/static/js/main.356d40e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a724a61b.css",
+    "static/js/main.356d40e1.js"
+  ]
+}
